@@ -3,7 +3,7 @@
 > Interactive visualization companion for:  
 > **Farias et al., 2026** · *Journal Name* · DOI: [10.xxxx/xxxxx](https://doi.org/10.xxxx/xxxxx)
 
-🔗 **[Access the tool](https://clebprr.github.io/sm-peptide-reactivity-explorer/index.html)**
+🔗 **[Access the tool](https://clebprr.github.io/index.html)**
 
 ---
 
